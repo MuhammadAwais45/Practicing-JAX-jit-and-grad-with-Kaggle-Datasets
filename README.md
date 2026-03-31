@@ -16,7 +16,7 @@ Two case studies are included:
 | Competition | Goal | Features Used | Rank / Teams |
 |------------|------|---------------|--------------|
 | [House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques) | Predict sales prices | Small set of numerical features | 3615 / 4046 |
-| [Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic) | Predict survival | Age, class, sex, family size, fare | 11725 / 12243 |
+| [Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic) | Predict survival | Age, class, sex, family size, fare | 635 / 12243 |
 
 > Only a small subset of features from the datasets was used, following the Lab Working Manual: Practicing JAX `jit` and `grad` workflow.
 
